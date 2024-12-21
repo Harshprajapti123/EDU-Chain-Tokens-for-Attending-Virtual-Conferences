@@ -1,4 +1,4 @@
-# Tokens for Attending Virtual Conferences
+![image](https://github.com/user-attachments/assets/8c2aa8f8-3c48-4388-8378-d73112ab7fee)# Tokens for Attending Virtual Conferences
 
 ## Project Title
 Tokens for Attending Virtual Conferences
@@ -8,6 +8,8 @@ This project incentivizes attendees of virtual conferences by awarding them toke
 
 ## Contract Address
 0x86f2FBc4E08E5eDc3a15953A1fB4252681Dc7Cb0
+![image](https://github.com/user-attachments/assets/56b38bfd-6af4-4e0d-b417-c142e715d473)
+
 
 ## Project Vision
 The vision of this project is to revolutionize virtual conference engagement by:
@@ -21,3 +23,4 @@ The vision of this project is to revolutionize virtual conference engagement by:
 3. **Allowance Management:** Users can approve third parties to spend tokens on their behalf.
 4. **Decentralized Management:** Secure and transparent smart contract implementation.
 5. **Event Traceability:** All token issuance and transfers are logged on the blockchain for verification and auditing.
+
